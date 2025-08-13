@@ -9,10 +9,10 @@ interface NotesAppProps {
 
 const welcomeNote = `# Welcome to MiniOS Notes! 📝
 
-**Student Name:** [ADD YOUR NAME HERE - STEP 2] 
-**Workshop Goal:** [WHAT DO YOU WANT TO LEARN? - STEP 2]
-**Favorite Git Command:** [YOUR FAVORITE COMMAND - STEP 2]
-**Team Role:** [FRONTEND/BACKEND/FULLSTACK - STEP 2]
+**Student Name:** Apoorva Puranik
+**Workshop Goal:** Github n git
+**Favorite Git Command:** git clone
+**Team Role:** fullstack
 
 ---
 
@@ -22,14 +22,14 @@ This is a **Markdown-powered** notes app built for the Git workshop.
 
 ### Day 1 Goals (Uncomment and customize in Step 2)
 - [ ] Learn basic Git commands
-- [ ] Practice merge conflicts  
+- [ ] Practice merge conflicts
 - [ ] Master branching
 - [ ] [ADD YOUR OWN GOAL - STEP 2]
 - [ ] [ADD ANOTHER GOAL - STEP 2]
 
 ### Favorite Features I Want to Build
 - Real-time markdown preview
-- Split-pane interface  
+- Split-pane interface
 - Theme support (Light/Dark/Neon)
 - Perfect for *merge conflict* practice!
 - [ADD YOUR FEATURE IDEA - STEP 2]
@@ -42,7 +42,7 @@ This is a **Markdown-powered** notes app built for the Git workshop.
 \`\`\`bash
 # My most used commands (add your comments in Step 2):
 git status    # [ADD YOUR COMMENT - STEP 2]
-git add .     # [ADD YOUR COMMENT - STEP 2] 
+git add .     # [ADD YOUR COMMENT - STEP 2]
 git commit -m # [ADD YOUR COMMENT - STEP 2]
 git push      # [ADD YOUR COMMENT - STEP 2]
 git pull      # [ADD YOUR COMMENT - STEP 2]
@@ -86,12 +86,12 @@ function myFavoriteFunction() {
 ## Team Collaboration Notes - STEP 4 CONFLICT ZONE
 **Project Ideas (Add yours in Step 4):**
 1. [STUDENT A's IDEA - STEP 4]
-2. [STUDENT B's IDEA - STEP 4] 
+2. [STUDENT B's IDEA - STEP 4]
 3. [STUDENT C's IDEA - STEP 4]
 
 **Who's working on what (Update in Step 4):**
 - Calculator App: [STUDENT NAME - STEP 4]
-- Music Player: [DIFFERENT STUDENT NAME - STEP 4]  
+- Music Player: [DIFFERENT STUDENT NAME - STEP 4]
 - Weather App: [ANOTHER STUDENT NAME - STEP 4]
 - Chat App: [FOURTH STUDENT NAME - STEP 4]
 
@@ -128,7 +128,7 @@ When students update the team section with different project assignments and wor
 ## Step-by-Step Conflict Creation Guide
 
 **Step 2 (Current):** Replace all [PLACEHOLDER] text with your personal information
-**Step 4:** Update team collaboration section with your project assignments  
+**Step 4:** Update team collaboration section with your project assignments
 **Step 6:** Create theme-specific notes in feature branches
 **Step 7:** Merge everything and resolve the beautiful chaos of conflicts!
 
