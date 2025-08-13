@@ -62,46 +62,46 @@ export const desktopConfig = {
       color: "bg-yellow-500",
       component: "NotesApp",
     },
-    // {
-    //   id: "gallery",
-    //   name: "Gallery",
-    //   icon: "🖼️",
-    //   color: "bg-purple-500",
-    //   component: "GalleryApp",
-    // },
-    // {
-    //   id: "calculator",
-    //   name: "Calculator",
-    //   icon: "🧮",
-    //   color: "bg-orange-500",
-    //   component: "CalculatorApp",
-    // },
+    {
+      id: "gallery",
+      name: "Gallery",
+      icon: "🖼️",
+      color: "bg-purple-500",
+      component: "GalleryApp",
+    },
+    {
+      id: "calculator",
+      name: "Calculator",
+      icon: "🧮",
+      color: "bg-orange-500",
+      component: "CalculatorApp",
+    },
 
     // EXERCISE APPS - Students will uncomment these to create conflicts
-    // {
-    //   id: 'music-player',
-    //   name: 'Music Player',
-    //   icon: '🎵',
-    //   color: 'bg-pink-500',
-    //   component: 'MusicPlayerApp',
-    //   author: 'Your Name Here', // Students customize this
-    // },
-    // {
-    //   id: 'weather',
-    //   name: 'Weather',
-    //   icon: '🌤️',
-    //   color: 'bg-sky-500',
-    //   component: 'WeatherApp',
-    //   author: 'Your Name Here', // Students customize this
-    // },
-    // {
-    //   id: 'chat',
-    //   name: 'Chat',
-    //   icon: '💬',
-    //   color: 'bg-indigo-500',
-    //   component: 'ChatApp',
-    //   author: 'Your Name Here', // Students customize this
-    // },
+    {
+      id: 'music-player',
+      name: 'Music Player',
+      icon: '🎵',
+      color: 'bg-pink-500',
+      component: 'MusicPlayerApp',
+      author: 'Your Name Here', // Students customize this
+    },
+    {
+      id: 'weather',
+      name: 'Weather',
+      icon: '🌤️',
+      color: 'bg-sky-500',
+      component: 'WeatherApp',
+      author: 'Your Name Here', // Students customize this
+    },
+    {
+      id: 'chat',
+      name: 'Chat',
+      icon: '💬',
+      color: 'bg-indigo-500',
+      component: 'ChatApp',
+      author: 'Your Name Here', // Students customize this
+    },
   ],
 
   // dock: {
